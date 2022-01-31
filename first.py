@@ -1,1 +1,1 @@
-print("Hi from Main")
+print("Hi from b2")
